@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: Jesús Germán Sánchez González (aka elkoyote)
+# Author: Jesús Germán Sánchez González (aka elkoyote07)
 
 #Colours
 greenColour="\e[0;32m\033[1m"
