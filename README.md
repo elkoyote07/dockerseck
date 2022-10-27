@@ -1,4 +1,7 @@
 # dockerseck
 Docker Security Analyzer
 
-[!] Working in progress
+GTFObins checks automated.
+
+[!] Working in progress:
+  - CVE list pending to automate.
